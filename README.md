@@ -2,7 +2,7 @@
 
 Notes App is a simple note application for Android written by Kotlin.
 
-<img src="/previews/screenshot1.png" width="32%"/><img src="/previews/screenshot2.png" width="32%"/><img src="/previews/screenshot3.png" width="32%"/><img src="/previews/screenshot4.png" width="32%"/>
+<img src="/previews/screenshot1.png" width="32%"/><img src="/previews/screenshot2.png" width="32%"/><img src="/previews/screenshot3.png" width="32%"/><img src="/previews/screenshot4.png" width="32%"/><img src="/previews/screenshot5.png" width="32%"/>
 
 ## Tech stack
 
